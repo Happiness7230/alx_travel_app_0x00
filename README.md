@@ -24,4 +24,8 @@ It demonstrates **database modeling**, **API serialization**, and **data seeding
 cp -r alx_travel_app alx_travel_app_0x00
 cd alx_travel_app_0x00
 
+<<<<<<< HEAD
 Lets do this
+=======
+Lets do this
+>>>>>>> 8db219c7f71df0f23023d98d1e7f8994c91e3d39
